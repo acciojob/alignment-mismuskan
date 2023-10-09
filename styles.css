@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+table{
+	width:100vh;
+	border:1px solid black;
+	spacing:1px;
+	padding:1px;
+}
+.left{
+	text-align:left;
+}
+.right{
+	text-align:right;
+}
+.center{
+	text-align:center;
+}
